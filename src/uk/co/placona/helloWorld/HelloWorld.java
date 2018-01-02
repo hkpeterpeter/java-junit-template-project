@@ -6,4 +6,8 @@ public class HelloWorld {
 		return "Hello World";
 	}
 
+	public String sayPeter() {
+		return "Peter";
+	}
+
 }
